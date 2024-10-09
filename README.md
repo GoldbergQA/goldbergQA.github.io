@@ -1,2 +1,2 @@
 # goldbergQA.github.io
-Сай-визитка за 5 минут
+Сайт визитка HTML, CSS
